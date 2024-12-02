@@ -1,0 +1,5 @@
+# Config with session cookies
+config.yaml
+
+# Python virtual environment
+.venv
